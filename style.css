@@ -1,3 +1,30 @@
 body{
-  background-color: red;
+
+
+  font-family: fantasy;
+  font-size: 20px;
+  color: darkblue;
+
+
+}
+
+.sloth {
+background-image: url(https://www.nationalgeographic.com/content/dam/animals/thumbs/rights-exempt/mammals/group/three-toed-sloths_thumb.ngsversion.1486744425400.adapt.1900.1.jpg);
+background-size: cover;
+background-position: center;
+width: auto;
+height: auto;
+
+}
+
+img{
+  display: block;
+  height: 200px;
+}
+
+li{
+  font-family: monospace;
+  color: red;
+  font-weight: bold;
+  font-size: 16px;
 }
